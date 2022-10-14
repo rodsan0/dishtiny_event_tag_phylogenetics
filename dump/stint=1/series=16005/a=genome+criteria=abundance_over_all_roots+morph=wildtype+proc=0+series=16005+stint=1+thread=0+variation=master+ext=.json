@@ -1,0 +1,5442 @@
+{
+    "value0": {
+        "event_tags": {
+            "tags": {
+                "value0": {
+                    "value0": {
+                        "value0": 14934876103666515727
+                    }
+                },
+                "value1": {
+                    "value0": {
+                        "value0": 14102337942097812787
+                    }
+                },
+                "value2": {
+                    "value0": {
+                        "value0": 8323321516552062736
+                    }
+                },
+                "value3": {
+                    "value0": {
+                        "value0": 13263520617607011124
+                    }
+                },
+                "value4": {
+                    "value0": {
+                        "value0": 12239014883581838686
+                    }
+                },
+                "value5": {
+                    "value0": {
+                        "value0": 783426369823483172
+                    }
+                },
+                "value6": {
+                    "value0": {
+                        "value0": 4141156917575458894
+                    }
+                },
+                "value7": {
+                    "value0": {
+                        "value0": 2191083107655086608
+                    }
+                },
+                "value8": {
+                    "value0": {
+                        "value0": 10089739389588252432
+                    }
+                },
+                "value9": {
+                    "value0": {
+                        "value0": 18432593977190408077
+                    }
+                },
+                "value10": {
+                    "value0": {
+                        "value0": 13378362239940991809
+                    }
+                },
+                "value11": {
+                    "value0": {
+                        "value0": 17085254981011372574
+                    }
+                },
+                "value12": {
+                    "value0": {
+                        "value0": 18016911999683324756
+                    }
+                },
+                "value13": {
+                    "value0": {
+                        "value0": 16914305021779512620
+                    }
+                },
+                "value14": {
+                    "value0": {
+                        "value0": 4963147782671180840
+                    }
+                },
+                "value15": {
+                    "value0": {
+                        "value0": 9266178505648702389
+                    }
+                },
+                "value16": {
+                    "value0": {
+                        "value0": 15658258957699912285
+                    }
+                },
+                "value17": {
+                    "value0": {
+                        "value0": 11435944497446008355
+                    }
+                },
+                "value18": {
+                    "value0": {
+                        "value0": 993999127920884251
+                    }
+                },
+                "value19": {
+                    "value0": {
+                        "value0": 7937223372781302441
+                    }
+                },
+                "value20": {
+                    "value0": {
+                        "value0": 10872600630316382247
+                    }
+                },
+                "value21": {
+                    "value0": {
+                        "value0": 14477219373458617788
+                    }
+                },
+                "value22": {
+                    "value0": {
+                        "value0": 6286832296550108761
+                    }
+                },
+                "value23": {
+                    "value0": {
+                        "value0": 7669615283022369636
+                    }
+                },
+                "value24": {
+                    "value0": {
+                        "value0": 15029419118819753099
+                    }
+                },
+                "value25": {
+                    "value0": {
+                        "value0": 13735519603144716144
+                    }
+                },
+                "value26": {
+                    "value0": {
+                        "value0": 6386438560012705401
+                    }
+                },
+                "value27": {
+                    "value0": {
+                        "value0": 17473649222738467340
+                    }
+                },
+                "value28": {
+                    "value0": {
+                        "value0": 2790357965803330568
+                    }
+                },
+                "value29": {
+                    "value0": {
+                        "value0": 1841630052991903439
+                    }
+                },
+                "value30": {
+                    "value0": {
+                        "value0": 9165066154500697689
+                    }
+                },
+                "value31": {
+                    "value0": {
+                        "value0": 11874568455048499582
+                    }
+                },
+                "value32": {
+                    "value0": {
+                        "value0": 7709539261573227339
+                    }
+                },
+                "value33": {
+                    "value0": {
+                        "value0": 16470860240470715365
+                    }
+                },
+                "value34": {
+                    "value0": {
+                        "value0": 15513959968345295343
+                    }
+                }
+            }
+        },
+        "generation_counter": {
+            "elapsed_generations": {
+                "value0": 975,
+                "value1": 818,
+                "value2": 148
+            }
+        },
+        "mutation_counter": {
+            "point_mutation_counter": 959,
+            "insertion_deletion_counter": 291,
+            "mutation_occurrence_counter": 209
+        },
+        "kin_group_id": {
+            "data": {
+                "value0": 3369380778709705578,
+                "value1": 5618989491301377013
+            },
+            "ancestor_data": {
+                "value0": 5750263373481065174,
+                "value1": 17909910941225291828
+            }
+        },
+        "kin_group_epoch_stamps": {
+            "data": {
+                "value0": 17819,
+                "value1": 17443
+            }
+        },
+        "program": [
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 4
+                },
+                "bitstring": "0001110011000100110100000010111000001001011110101111100111011010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0001110011000100110100000010111000001001011110101111100111011010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "oafish flatworm"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 3,
+                    "value1": 7,
+                    "value2": 5
+                },
+                "bitstring": "0000101111011011101001011101111111100101010010101011110110100100",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0000101111011011101001011101111111100101010010101011110110100100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unique grebe"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 5,
+                    "value1": 1,
+                    "value2": 7
+                },
+                "bitstring": "1111001011100011001111100011010010111111101010110001100010000001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Bitwise Not",
+                "args": {
+                    "value0": 5,
+                    "value1": 7,
+                    "value2": 6
+                },
+                "bitstring": "1000100000110001100101010000101010000100001010100111111010100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = ~b"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 4,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "1011000101100001010110101001111100111100111101101011101111000110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.385783"
+                    }
+                ]
+            },
+            {
+                "operation": "Bitwise Xor",
+                "args": {
+                    "value0": 3,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "1100101011001110111110111001001111001000001000011100010100000100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "0"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b ^ c"
+                    }
+                ]
+            },
+            {
+                "operation": "Equal",
+                "args": {
+                    "value0": 2,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "1001011111011101110110100011011010110110011010000011110101100111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = ( b == c )"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Intra-Cell Message",
+                "args": {
+                    "value0": 7,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "0110110110111000100001000101100110101100100110100011101011001010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message another cardinal within cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110110110111000100001000101100110101100100110100011101011001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "educated grebe"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 4,
+                    "value1": 6,
+                    "value2": 0
+                },
+                "bitstring": "1111110000010001100001101111001011001111100001101111100101110111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1111110000010001100001101111001011001111100001101111100101110111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "possessive balanus"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply",
+                "args": {
+                    "value0": 4,
+                    "value1": 6,
+                    "value2": 6
+                },
+                "bitstring": "1000110110011010000000111001111000011111001001010101110010011001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b * c"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 6,
+                    "value1": 4,
+                    "value2": 5
+                },
+                "bitstring": "1101100110000001111110011101100010010110111110101100000011010010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::TransientNopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 3,
+                    "value2": 5
+                },
+                "bitstring": "1110100100000010010110001111110101110111101110010101110100001010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1110100100000010010110001111110101110111101110010101110100001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "seemly scarab"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 1,
+                    "value1": 0,
+                    "value2": 1
+                },
+                "bitstring": "1000011110100011001000000100000000101110000100010110000101001010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1000011110100011001000000100000000101110000100010110000101001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "inferior leopard"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 3,
+                    "value1": 1,
+                    "value2": 6
+                },
+                "bitstring": "0011001011001101011101111011001011111010111111001010101011111011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-4.5585"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply",
+                "args": {
+                    "value0": 4,
+                    "value1": 6,
+                    "value2": 2
+                },
+                "bitstring": "1000111110011011100000111011111000011111001001010101110010011001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b * c"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 5
+                },
+                "bitstring": "1101100100000001111110011101100010110100111010101100000011010010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupWillExpire"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 3,
+                    "value2": 5
+                },
+                "bitstring": "0110100110000010011110001111110101110111101111010101100110001010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110100110000010011110001111110101110111101111010101100110001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "crowded ringtail"
+                    }
+                ]
+            },
+            {
+                "operation": "Count Ones",
+                "args": {
+                    "value0": 3,
+                    "value1": 0,
+                    "value2": 1
+                },
+                "bitstring": "1000011110100011100000000100000100101110000100010100000100001000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = popcnt( b )"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 1,
+                    "value1": 5,
+                    "value2": 6
+                },
+                "bitstring": "0010001011001101011101110011001001111010111110001011101001011011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-2.59071"
+                    }
+                ]
+            },
+            {
+                "operation": "Logical And",
+                "args": {
+                    "value0": 2,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "1001111110011000001000001010000001110100101110001100110001111000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b && c"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 3,
+                    "value1": 6,
+                    "value2": 2
+                },
+                "bitstring": "0000010111111011100101011101000010110100011100101010111111001000",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0000010111111011100101011101000010110100011100101010111111001000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "informal seals"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 1,
+                    "value1": 0,
+                    "value2": 1
+                },
+                "bitstring": "1001111010010010010101110100100100001111001011011111011010010001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "73.3962"
+                    }
+                ]
+            },
+            {
+                "operation": "Logical And",
+                "args": {
+                    "value0": 2,
+                    "value1": 1,
+                    "value2": 5
+                },
+                "bitstring": "0110100100111100010001110100000010001000011111111110000010110001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b && c"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 4,
+                    "value1": 3,
+                    "value2": 7
+                },
+                "bitstring": "0111111101100111100110111000010101101011010001001100010101010101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111111101100111100110111000010101101011010001001100010101010101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "hopeful puma"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 5,
+                    "value1": 1,
+                    "value2": 6
+                },
+                "bitstring": "1001111001011011011111010101001111100001111010101001000101000010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1001111001011011011111010101001111100001111010101001000101000010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "dense civet"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 3,
+                    "value2": 1
+                },
+                "bitstring": "1001111000000110010110001101100101001000001011000011011110101111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "77.48"
+                    }
+                ]
+            },
+            {
+                "operation": "Draw Random Value",
+                "args": {
+                    "value0": 7,
+                    "value1": 3,
+                    "value2": 1
+                },
+                "bitstring": "1001111000000110010110001111100101001000001011000011111110101111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = weighted draw from random number generator"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 1,
+                    "value1": 5,
+                    "value2": 3
+                },
+                "bitstring": "0100001000011001010110100000011000001100100010110110101111101101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Global Regulator",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 7
+                },
+                "bitstring": "1111101111110001111010011101111110100010101100100011000011000011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1111101111110001111010011101111110100010101100100011000011000011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "miserable dobermann"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 0
+                },
+                "bitstring": "0000100011010010100010001011001101010011101100101010010000011111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::ResourceSendRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Not Equal",
+                "args": {
+                    "value0": 3,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "0011011100111000011011111101010101100111101011000110011011001010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = (b != c)"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 3
+                },
+                "bitstring": "0000111001101100101001000101010011100110010110000101100111010101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupMatch"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 2,
+                    "value1": 5,
+                    "value2": 1
+                },
+                "bitstring": "0101001111000010001110000011001011100010000000101101111000100100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.345635"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 1,
+                    "value1": 5,
+                    "value2": 3
+                },
+                "bitstring": "0100001000011001010110100000011000001100100010110110101111101101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Global Regulator",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 7
+                },
+                "bitstring": "1111101111110001111011011101111110100010101100100011000011000011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1111101111110001111011011101111110100010101100100011000011000011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "musical angelfish"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 0
+                },
+                "bitstring": "0000100011010010100010001011001111011011101100101010010000011111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "3"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 2
+                },
+                "bitstring": "0000110100010010100001111000100011010001101110000111011010010111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0000110100010010100001111000100011010001101110000111011010010111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "funny loerie"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "1001111100000000110001001001101110011111100111110110101110111001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "3"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 5,
+                    "value2": 1
+                },
+                "bitstring": "1010101001101110000000111011111001010001011001100101011000110111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010101001101110000000111011111001010001011001100101011000110111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unbalanced oryx"
+                    }
+                ]
+            },
+            {
+                "operation": "Nop-0",
+                "args": {
+                    "value0": 6,
+                    "value1": 4,
+                    "value2": 0
+                },
+                "bitstring": "0000010001101001100011000111101010000111110110100010011100000010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "perform no operation"
+                    }
+                ]
+            },
+            {
+                "operation": "Add",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 7
+                },
+                "bitstring": "1001000100111100010010011111000010100001011011100100011110111011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b + c"
+                    }
+                ]
+            },
+            {
+                "operation": "Set Local Regulator",
+                "args": {
+                    "value0": 3,
+                    "value1": 0,
+                    "value2": 6
+                },
+                "bitstring": "0101011101010010000000010110011111001111110011111011101000110011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "set local regulator value to a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0101011101010010000000010110011111001111110011111011101000110011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "cavernous urchin"
+                    }
+                ]
+            },
+            {
+                "operation": "Add",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 6
+                },
+                "bitstring": "1001000100111100010010011111000010100001011011100100011110111011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b + c"
+                    }
+                ]
+            },
+            {
+                "operation": "Set Local Regulator",
+                "args": {
+                    "value0": 3,
+                    "value1": 0,
+                    "value2": 6
+                },
+                "bitstring": "0101011101010010000100010110011111001111110011111011101000110011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "set local regulator value to a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0101011101010010000100010110011111001111110011111011101000110011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "cynical chickaree"
+                    }
+                ]
+            },
+            {
+                "operation": "Not Equal",
+                "args": {
+                    "value0": 6,
+                    "value1": 0,
+                    "value2": 1
+                },
+                "bitstring": "0110001001011001111101001110110111001011001001011100001001101001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "0"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = (b != c)"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Jump If",
+                "args": {
+                    "value0": 5,
+                    "value1": 2,
+                    "value2": 3
+                },
+                "bitstring": "1011100010001010101010101000010101100101111011111010111100111010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, goto tag match local anchor"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1011100010001010101010101000010101100101111011111010111100111010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "each rabbit"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 6,
+                    "value1": 5,
+                    "value2": 0
+                },
+                "bitstring": "1001101110110101001100010111110100000111010011101100110001010000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.216467"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminate If",
+                "args": {
+                    "value0": 2,
+                    "value1": 2,
+                    "value2": 5
+                },
+                "bitstring": "1011110111110000110001010000101000111111100110010111111110100001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, terminate core"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 4,
+                    "value2": 3
+                },
+                "bitstring": "0100010001010011010111101010100110110010000100110001111100010001",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0100010001010011010111101010100110110010000100110001111100010001"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "linear kea"
+                    }
+                ]
+            },
+            {
+                "operation": "Draw Random Value",
+                "args": {
+                    "value0": 0,
+                    "value1": 7,
+                    "value2": 1
+                },
+                "bitstring": "1000000110110110110011111000100000110100110011010010001111100111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = weighted draw from random number generator"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "1011111011110100001000100111111000010011001101110010110011111110",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1011111011110100001000100111111000010011001101110010110011111110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "rotten vampire"
+                    }
+                ]
+            },
+            {
+                "operation": "Add To Own State",
+                "args": {
+                    "value0": 3,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "1101100101110100100110011011110111100111111011111110100000110111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state += a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::ResourceSendRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 5,
+                    "value1": 2,
+                    "value2": 7
+                },
+                "bitstring": "1010110000110101010000111010000101011100101111101101011000000101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010110000110101010000111010000101011100101111101101011000000101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "frothy elk"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 6
+                },
+                "bitstring": "1111010110101000000001100001101010100100100011110110010110011110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupIDAncestorView"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Count Ones",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 3
+                },
+                "bitstring": "1001111111111111100010011000000110001010010010000110001011101010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = popcnt( b )"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Inter-Cell Message",
+                "args": {
+                    "value0": 2,
+                    "value1": 6,
+                    "value2": 5
+                },
+                "bitstring": "0110001110011011011110111111011111111111100000101010111010110110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to neighbor cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110001110011011011110111111011111111111100000101010111010110110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "squealing chinchilla"
+                    }
+                ]
+            },
+            {
+                "operation": "Fork If",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "0111000000101111010110101110111010000011111000010111101010000110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, submit fork request (processed when core terminates)"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111000000101111010110101110111010000011111000010111101010000110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "droopy siskin"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 6,
+                    "value1": 4,
+                    "value2": 2
+                },
+                "bitstring": "1001101001000110101010000101011101011001000001011000100000011010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1001101001000110101010000101011101011001000001011000100000011010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "ordinary corncrake"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Intra-Cell Message",
+                "args": {
+                    "value0": 5,
+                    "value1": 3,
+                    "value2": 2
+                },
+                "bitstring": "1101111100100000010110111110100100000001011101100111010010000000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message another cardinal within cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1101111100100000010110111110100100000001011101100111010010000000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unhappy katydid"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 6
+                },
+                "bitstring": "0111111110010010100101111111001011101101010100100101000101111110",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111111110010010100101111111001011101101010100100101000101111110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "excited humboldt"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 5,
+                    "value1": 0,
+                    "value2": 5
+                },
+                "bitstring": "1100101011100100001101010101101110010011111100111011011000010001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::HeirRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 2,
+                    "value1": 2,
+                    "value2": 0
+                },
+                "bitstring": "1000011100010101011000111110110111111011001101001100001110101100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 5,
+                    "value2": 7
+                },
+                "bitstring": "1001101100010010111000001001011110000011010011000101101101110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::ResourceSendLimit"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 3,
+                    "value1": 2,
+                    "value2": 6
+                },
+                "bitstring": "0100001011000001011111101110111010110100011111000010001010011000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::OptimumQuorumExceeded"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Set Global Regulator",
+                "args": {
+                    "value0": 0,
+                    "value1": 4,
+                    "value2": 4
+                },
+                "bitstring": "1101011010000011011000010100010011000011001001111000111111111010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "set global regulator value to a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1101011010000011011000010100010011000011001001111000111111111010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "strident wryneck"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 1,
+                    "value1": 5,
+                    "value2": 6
+                },
+                "bitstring": "0011011010001010000010111110100001000100001010001110101010000011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-5.2901"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 4,
+                    "value1": 4,
+                    "value2": 7
+                },
+                "bitstring": "0111111000001001011001011010111101011000111011111010110111111101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111111000001001011001011010111101011000111011111010110111111101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "elderly markhor"
+                    }
+                ]
+            },
+            {
+                "operation": "Logical Or",
+                "args": {
+                    "value0": 4,
+                    "value1": 7,
+                    "value2": 2
+                },
+                "bitstring": "1110100100111101110111111011001001110010111100100001111000000100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "7"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b || c"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 3,
+                    "value2": 3
+                },
+                "bitstring": "0110101110101100111100110000101011101110101110000010110000001010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110101110101100111100110000101011101110101110000010110000001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unstable kiwi"
+                    }
+                ]
+            },
+            {
+                "operation": "Draw Random Value",
+                "args": {
+                    "value0": 5,
+                    "value1": 7,
+                    "value2": 5
+                },
+                "bitstring": "1000110100100101111001111100100100000101100100001111010101101101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = weighted draw from random number generator"
+                    }
+                ]
+            },
+            {
+                "operation": "Logical Or",
+                "args": {
+                    "value0": 2,
+                    "value1": 3,
+                    "value2": 3
+                },
+                "bitstring": "0110101110101100110100100000101011101110101110000110110000001010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "3"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b || c"
+                    }
+                ]
+            },
+            {
+                "operation": "Draw Random Value",
+                "args": {
+                    "value0": 5,
+                    "value1": 7,
+                    "value2": 5
+                },
+                "bitstring": "1000110100100101111001111100000100000101100100001111010101101101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = weighted draw from random number generator"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 5,
+                    "value1": 5,
+                    "value2": 7
+                },
+                "bitstring": "0111000010000001001001010110000011100111011101110111111101111011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "0011011111011001100100100011100100100011010001101111010111110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.563673"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 0
+                },
+                "bitstring": "1110111011001001100010110010001110011100001100100001100101110101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::TransientNopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "3"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 2,
+                    "value2": 1
+                },
+                "bitstring": "1111101010011100001000100000110110001011011000011101110101001101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1111101010011100001000100000110110001011011000011101110101001101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "civil batfish"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 6
+                },
+                "bitstring": "0101001000100111101001010000110100111100010110001111100101000000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupAge"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 5,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "1101000100001111011101011011100000000100011011000100110011100101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "3.93735"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 5,
+                    "value2": 2
+                },
+                "bitstring": "1000010011110101001110000010101111100000000111001111111000101001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupWillExpire"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Generate Random Bool",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 3
+                },
+                "bitstring": "0000110111000111101110000110100100000000001011110110001011011000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "probability",
+                        "value": "0.0538287"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if p, a = 1; else a = 0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 3,
+                    "value1": 1,
+                    "value2": 4
+                },
+                "bitstring": "1010100000001100001110000000110110010001111101111110110001110010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.312873"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 6,
+                    "value1": 3,
+                    "value2": 2
+                },
+                "bitstring": "1100010111110000110101001101110100001100010010111001111101100011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "6.1297"
+                    }
+                ]
+            },
+            {
+                "operation": "Adjust Local Regulator",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 1
+                },
+                "bitstring": "0000110111000111101110000010100100000010001011110110001011011010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "adjust local regulator value by a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0000110111000111101110000010100100000010001011110110001011011010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "rhetorical quagga"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 4
+                },
+                "bitstring": "1010100000101101001110000000110111010001111101111110110000110010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.31388"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 5,
+                    "value2": 3
+                },
+                "bitstring": "0010110110111101110110110010011111000010101111100000010100010000",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0010110110111101110110110010011111000010101111100000010100010000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "faraway woylie"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 3,
+                    "value1": 1,
+                    "value2": 0
+                },
+                "bitstring": "1110101001111101111101111110000011000110101000101011110101010110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.831969"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Intra-Cell Message",
+                "args": {
+                    "value0": 2,
+                    "value1": 2,
+                    "value2": 1
+                },
+                "bitstring": "1110100000001001101110100000011011110100101011100111111100000110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message another cardinal within cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1110100000001001101110100000011011110100101011100111111100000110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "coherent frogmouth"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 5,
+                    "value1": 5,
+                    "value2": 1
+                },
+                "bitstring": "1011100010011001100010111000011011111101110000000010110001010001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::SpawnRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 6,
+                    "value1": 5,
+                    "value2": 7
+                },
+                "bitstring": "0010000111010110010011001010011001110000000000111111100101001111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0010000111010110010011001010011001110000000000111111100101001111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "empty lemur"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 3
+                },
+                "bitstring": "1000000000110110111010010010101001110111111011010110111111111010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1000000000110110111010010010101001110111111011010110111111111010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "stinky bison"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 3,
+                    "value1": 2,
+                    "value2": 4
+                },
+                "bitstring": "1100000110010001011110001101111010110001110100000011100101010100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::IsParentGroupOf"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 3,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "1000010111101010100001111111010001001100110101000111101100000111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "10127.8"
+                    }
+                ]
+            },
+            {
+                "operation": "Set Local Regulator",
+                "args": {
+                    "value0": 7,
+                    "value1": 0,
+                    "value2": 6
+                },
+                "bitstring": "1000101000001110110010010100001000110100011100111101010000100010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "set local regulator value to a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1000101000001110110010010100001000110100011100111101010000100010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "tough marten"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply",
+                "args": {
+                    "value0": 2,
+                    "value1": 7,
+                    "value2": 5
+                },
+                "bitstring": "1111110100011111101101110111100110010010011111101100010111101011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "7"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b * c"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 5
+                },
+                "bitstring": "1011010001011000010010101011111011001100111000101010110110001010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.408944"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 0,
+                    "value2": 0
+                },
+                "bitstring": "0010001111110010010000001010000010100101010010010001111100100000",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0010001111110010010000001010000010100101010010010001111100100000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unreliable spaniel"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 3,
+                    "value1": 4,
+                    "value2": 7
+                },
+                "bitstring": "0100001110101010011111110011010011101010001000100111110000011111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0100001110101010011111110011010011101010001000100111110000011111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unfolded addax"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 2,
+                    "value1": 3,
+                    "value2": 6
+                },
+                "bitstring": "1110010011101100111110001011100001001001001110100010101001011111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::ResourceStockpile"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 1,
+                    "value2": 0
+                },
+                "bitstring": "1010010101101111000001100011101010001001111000101110001011100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "operation": "Generate Random Bool",
+                "args": {
+                    "value0": 3,
+                    "value1": 4,
+                    "value2": 7
+                },
+                "bitstring": "1101100110000101000110111110010111011010100101011111111101001010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "probability",
+                        "value": "0.849687"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if p, a = 1; else a = 0"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "0100111110001111100000110001111110100011001011111001000011101001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b * c"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 6,
+                    "value1": 4,
+                    "value2": 7
+                },
+                "bitstring": "0001101010101111010110101000111010100010010001100100000010100011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-2.01655"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Global Regulator",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 2
+                },
+                "bitstring": "0010110110011001001101000100111110001110010011001111000100001000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0010110110011001001101000100111110001110010011001111000100001000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "unusual wallaby"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Set Local Regulator",
+                "args": {
+                    "value0": 0,
+                    "value1": 1,
+                    "value2": 7
+                },
+                "bitstring": "0111011100011001000000001101110100110000111101111110000011100001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "set local regulator value to a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111011100011001000000001101110100110000111101111110000011100001"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "grisly hound"
+                    }
+                ]
+            },
+            {
+                "operation": "Get Local Regulator",
+                "args": {
+                    "value0": 5,
+                    "value1": 4,
+                    "value2": 3
+                },
+                "bitstring": "0000001101110011011110100100010111101110001111000001110010110110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = local regulator value"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0000001101110011011110100100010111101110001111000001110010110110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "extraordinary zebu"
+                    }
+                ]
+            },
+            {
+                "operation": "Get Global Regulator",
+                "args": {
+                    "value0": 2,
+                    "value1": 6,
+                    "value2": 2
+                },
+                "bitstring": "0011110000100101111100101101110011001100011000100010111011011000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = global regulator value"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0011110000100101111100101101110011001100011000100010111011011000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "willing whimbrel"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 4,
+                    "value1": 1,
+                    "value2": 6
+                },
+                "bitstring": "1001001101101100100110011010010100100001010011011100110110001110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Add",
+                "args": {
+                    "value0": 4,
+                    "value1": 0,
+                    "value2": 6
+                },
+                "bitstring": "0000101010010110101000000010011001010011000000011010111001101110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "0"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b + c"
+                    }
+                ]
+            },
+            {
+                "operation": "Count Ones",
+                "args": {
+                    "value0": 7,
+                    "value1": 3,
+                    "value2": 2
+                },
+                "bitstring": "0101110011010111011101001000011011001001111010001000011101001101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = popcnt( b )"
+                    }
+                ]
+            },
+            {
+                "operation": "Adjust Global Regulator",
+                "args": {
+                    "value0": 2,
+                    "value1": 1,
+                    "value2": 7
+                },
+                "bitstring": "1101101000001011101010000001110010010010110001011011101111010111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "adjust global regulator value by a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1101101000001011101010000001110010010010110001011011101111010111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "weird marten"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 3,
+                    "value1": 5,
+                    "value2": 6
+                },
+                "bitstring": "1001011001010100001011101011111100100010010100001100010000000101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1001011001010100001011101011111100100010010100001100010000000101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "deranged thrush"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 0,
+                    "value1": 7,
+                    "value2": 2
+                },
+                "bitstring": "1110000001100010111101111010100100111000101100010101001101111101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "2.34196"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 6,
+                    "value1": 5,
+                    "value2": 2
+                },
+                "bitstring": "0001000111001100010000011010110001001110110010111100110100001011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-1.56697"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply",
+                "args": {
+                    "value0": 4,
+                    "value1": 6,
+                    "value2": 0
+                },
+                "bitstring": "0100110101111101011010101101011110010110110101001100110110111000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b * c"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 1,
+                    "value1": 7,
+                    "value2": 0
+                },
+                "bitstring": "1000011010100101000001100000100000110101101010101001111010111001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupIDAncestorView"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Nop-1",
+                "args": {
+                    "value0": 1,
+                    "value1": 4,
+                    "value2": 6
+                },
+                "bitstring": "0110101101000110101110100111000101111110001000100110110101000001",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "perform no operation"
+                    }
+                ]
+            },
+            {
+                "operation": "Divide",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 0
+                },
+                "bitstring": "1110001001101101101101100100000000001110111101110101111000010010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b / c"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 6,
+                    "value1": 5,
+                    "value2": 4
+                },
+                "bitstring": "1010000101110011010001001001000011110111111011010111001010111011",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010000101110011010001001001000011110111111011010111001010111011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "tough koala"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Secondary Global Regulator",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 5
+                },
+                "bitstring": "1110111011110011111100101010101000101110100110110101111101101000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1110111011110011111100101010101000101110100110110101111101101000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "credulous cats"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Draw Random Value",
+                "args": {
+                    "value0": 3,
+                    "value1": 0,
+                    "value2": 6
+                },
+                "bitstring": "1011101011111001111000001110100111010000110011110100001011101001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = weighted draw from random number generator"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 0,
+                    "value2": 2
+                },
+                "bitstring": "1000111011001010000100010010100000111110110111100001001010111011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "648.313"
+                    }
+                ]
+            },
+            {
+                "operation": "Logical And",
+                "args": {
+                    "value0": 5,
+                    "value1": 0,
+                    "value2": 5
+                },
+                "bitstring": "1010111101000110100100101110110001110101101000101101101000000011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "0"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b && c"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 3,
+                    "value2": 6
+                },
+                "bitstring": "1100111011010110011111110111001011011110100011111000000111000101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1100111011010110011111110111001011011110100011111000000111000101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "determined myna"
+                    }
+                ]
+            },
+            {
+                "operation": "Increment",
+                "args": {
+                    "value0": 1,
+                    "value1": 4,
+                    "value2": 5
+                },
+                "bitstring": "1010100001010110110110100011110000110101010001000001011110110100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = a + 1"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 1,
+                    "value1": 0,
+                    "value2": 1
+                },
+                "bitstring": "0100110010010111000000101001101110100101001100110111101001010100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::ParentFragmented"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Broadcast Intra-Cell Message",
+                "args": {
+                    "value0": 4,
+                    "value1": 0,
+                    "value2": 4
+                },
+                "bitstring": "1000100101100010001011101111110111001110010000010110000110010001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to all other cardinals within cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1000100101100010001011101111110111001110010000010110000110010001"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "beaten hornbill"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 7,
+                    "value1": 2,
+                    "value2": 7
+                },
+                "bitstring": "1101011001000000111000111111000101001001111110101110010100010011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 3,
+                    "value1": 7,
+                    "value2": 7
+                },
+                "bitstring": "0000101101110001001101100011001101011011001111011110000010101101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-1.32436"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 5
+                },
+                "bitstring": "1111111011101101111100100010100010101100010100111001001010100110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::MostRecentCauseOfDeath"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 3,
+                    "value1": 6,
+                    "value2": 1
+                },
+                "bitstring": "1110101101001001111100000011001101110010110101001101011110101000",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1110101101001001111100000011001101110010110101001101011110101000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "dutiful langur"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 5,
+                    "value2": 6
+                },
+                "bitstring": "1000011110000001110000101111101010011001111100100101000010001010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1000011110000001110000101111101010011001111100100101000010001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "homeless myna"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 6,
+                    "value1": 0,
+                    "value2": 5
+                },
+                "bitstring": "0011100011110111001001000011011100011000010101001101111110100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::SpawnArrest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 1
+                },
+                "bitstring": "0011001001110000101010101101001001100010101101000000011101111010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0011001001110000101010101101001001100010101101000000011101111010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "polite nematode"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 0,
+                    "value1": 3,
+                    "value2": 7
+                },
+                "bitstring": "0010000100001011110011111110001000001101000001111110000001101010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.741827"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 4,
+                    "value1": 0,
+                    "value2": 3
+                },
+                "bitstring": "1010001111011111101011101101000101001100111000111100100011110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::TransientNopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 3,
+                    "value1": 7,
+                    "value2": 7
+                },
+                "bitstring": "0000101101110001001101100011001101011011001111011110000010101101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-1.32436"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 5
+                },
+                "bitstring": "1111111011101101111100100010100010101100010100111001001010100110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::MostRecentCauseOfDeath"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 3,
+                    "value1": 6,
+                    "value2": 1
+                },
+                "bitstring": "1110101101001001111100000011001101110010110101001101011110101000",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1110101101001001111100000011001101110010110101001101011110101000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "dutiful langur"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 5,
+                    "value2": 6
+                },
+                "bitstring": "1000011110000001110000101111101010011001111100100101000010001010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1000011110000001110000101111101010011001111100100101000010001010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "homeless myna"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 6,
+                    "value1": 0,
+                    "value2": 5
+                },
+                "bitstring": "0011100011110111001001000011011100011000010101001101111110100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::SpawnArrest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 1
+                },
+                "bitstring": "0011001001110000101010101101001001100010101101000000011101111010",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0011001001110000101010101101001001100010101101000000011101111010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "polite nematode"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 0,
+                    "value1": 3,
+                    "value2": 7
+                },
+                "bitstring": "0010000100001011110011111110001000001101000001111110000001101010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.741827"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Inter-Cell Message",
+                "args": {
+                    "value0": 4,
+                    "value1": 0,
+                    "value2": 3
+                },
+                "bitstring": "1010001111001111101011101101000101001100111000111100100011110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to neighbor cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010001111001111101011101101000101001100111000111100100011110000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "spiritual sturgeon"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 2,
+                    "value2": 3
+                },
+                "bitstring": "0011111111001010110011001010110011001000000001011101010001000100",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0011111111001010110011001010110011001000000001011101010001000100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "concerned gorilla"
+                    }
+                ]
+            },
+            {
+                "operation": "Generate Random Bool",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 3
+                },
+                "bitstring": "0110000000111110100101011011011101010110000100110111110100101010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "probability",
+                        "value": "0.375955"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if p, a = 1; else a = 0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 3
+                },
+                "bitstring": "1101111001000000111000111111000101001001111110101010010100010011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupAge"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Equal",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 2
+                },
+                "bitstring": "0010111100010011011001001110110110010100110000010010000011110111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = ( b == c )"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Inter-Cell Message",
+                "args": {
+                    "value0": 4,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "1010101111011111101011101101000101001100111000111000100011110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to neighbor cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010101111011111101011101101000101001100111000111000100011110000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "hungry batfish"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Inter-Cell Message",
+                "args": {
+                    "value0": 4,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "1010001111011111101011101101000101001100111000111100100011110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to neighbor cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010001111011111101011101101000101001100111000111100100011110000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "colossal emu"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 2,
+                    "value2": 3
+                },
+                "bitstring": "0011111111001010110011001010110011001000000001011101010001000100",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0011111111001010110011001010110011001000000001011101010001000100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "concerned gorilla"
+                    }
+                ]
+            },
+            {
+                "operation": "Generate Random Bool",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 3
+                },
+                "bitstring": "0110000000111110100101011011011101010110000100110111110100101010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "probability",
+                        "value": "0.375955"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if p, a = 1; else a = 0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 1
+                },
+                "bitstring": "1101111001000000111000111111000101001001111110101010010100011011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::PhylogeneticRootView"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Equal",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 2
+                },
+                "bitstring": "0010111100010011011001001110110110010100110000010010000011110111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = ( b == c )"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Inter-Cell Message",
+                "args": {
+                    "value0": 4,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "1010101111011111101011101101000101001100111000111100100011110000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to neighbor cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010101111011111101011101101000101001100111000111100100011110000"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "impartial osprey"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 2,
+                    "value2": 3
+                },
+                "bitstring": "0011101111001110110011001010110011001000000001011101010001000110",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0011101111001110110011001010110011001000000001011101010001000110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "bowed elk"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 7,
+                    "value2": 3
+                },
+                "bitstring": "1110000000111110100101011011011101010110000100110111110101101010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.75191"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Neighbor State",
+                "args": {
+                    "value0": 7,
+                    "value1": 2,
+                    "value2": 7
+                },
+                "bitstring": "1101011001000000111000111111000101001001111110101010010100010011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupAge"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Logical Or",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 2
+                },
+                "bitstring": "0010111100011011010001001110110110010100110000010010000011111111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b || c"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 5
+                },
+                "bitstring": "0100001101100101100001000101110101000010110000011111001100001101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0100001101100101100001000101110101000010110000011111001100001101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "steep wallaby"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 6,
+                    "value1": 4,
+                    "value2": 2
+                },
+                "bitstring": "0101010101000101001001110100010101110101110011111001010100010111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-26.8804"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Inter-Cell Message",
+                "args": {
+                    "value0": 3,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "0111110100110101100110011100111110101110110110101111011111011100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message to neighbor cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111110100110101100110011100111110101110110110101111011111011100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "delayed dragon"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 5,
+                    "value1": 0,
+                    "value2": 3
+                },
+                "bitstring": "0000110001111101000110101011110001011010011010100001001100110111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-1.36068"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 0,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "0010110001011100010111111111001011000100000100010000110101010101",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0010110001011100010111111111001011000100000100010000110101010101"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "chief stingray"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 2
+                },
+                "bitstring": "1001000111011101010101100110011010101100100100010011110000110100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::ReceivedResourceFrom"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Increment",
+                "args": {
+                    "value0": 0,
+                    "value1": 1,
+                    "value2": 0
+                },
+                "bitstring": "1111111110011111100011100001011001100011010000000110000110000000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = a + 1"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 7,
+                    "value1": 0,
+                    "value2": 5
+                },
+                "bitstring": "1011110011110011001001100011011100011000010101001101111110101100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Secondary Global Regulator",
+                "args": {
+                    "value0": 6,
+                    "value1": 7,
+                    "value2": 1
+                },
+                "bitstring": "1110011011110110110110110110010101011110111011101101000110110010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1110011011110110110110110110010101011110111011101101000110110010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "moody zorilla"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Equal",
+                "args": {
+                    "value0": 1,
+                    "value1": 1,
+                    "value2": 2
+                },
+                "bitstring": "0010111100000011011011001110110110010100110000010010000001110111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "1"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = ( b == c )"
+                    }
+                ]
+            },
+            {
+                "operation": "Subtract",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 5
+                },
+                "bitstring": "1000110010100001110101000001101100001101000111100101011111010110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b - c"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 4
+                },
+                "bitstring": "0111100001000101100011010001010100001001001011111110010111010101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-4543.34"
+                    }
+                ]
+            },
+            {
+                "operation": "Increment",
+                "args": {
+                    "value0": 0,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "0111111111011111100011100001011001110011010000000010000111000110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = a + 1"
+                    }
+                ]
+            },
+            {
+                "operation": "Subtract",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 5
+                },
+                "bitstring": "1000110010100001110101000001101100001101000111100101011111010110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b - c"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 4,
+                    "value1": 2,
+                    "value2": 4
+                },
+                "bitstring": "0111100001000101100011010001010100001001001011111110010111010101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-4543.34"
+                    }
+                ]
+            },
+            {
+                "operation": "Increment",
+                "args": {
+                    "value0": 0,
+                    "value1": 1,
+                    "value2": 3
+                },
+                "bitstring": "0111111111011111100011100001011001110011010000000010000111000110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = a + 1"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 6
+                },
+                "bitstring": "0100000101000111111001100111100101101011000101010100000101000000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.489993"
+                    }
+                ]
+            },
+            {
+                "operation": "Set Global Regulator",
+                "args": {
+                    "value0": 1,
+                    "value1": 6,
+                    "value2": 0
+                },
+                "bitstring": "1100011110111000010000111010101001100010100101000100111110001100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "set global regulator value to a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1100011110111000010000111010101001100010100101000100111110001100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "incompatible alligator"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 3
+                },
+                "bitstring": "1110010101111100101011010001101001001100001000101101101011101011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::PhylogeneticRootView"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 3
+                },
+                "bitstring": "1101001101001010001111011001011100111000111110001011100001000000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NeighborKinGroupWillExpire"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 3
+                },
+                "bitstring": "1110010101111100101011010001100001001100001000101101101011001011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::KinGroupMatch"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Read Own State",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 3
+                },
+                "bitstring": "1101001101001010001110011001011100111000111110001011100001000000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = state"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NeighborKinGroupWillExpire"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 0,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "1000001101101101111100001110001010110100010110101001010001111010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.0267926"
+                    }
+                ]
+            },
+            {
+                "operation": "Bitwise Or",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 2
+                },
+                "bitstring": "1110110111000101101010101001011111000001110100110010000001110011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b | c"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 7
+                },
+                "bitstring": "0111001100010000100110011001110000010110011101001010101010011111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111001100010000100110011001110000010110011101001010101010011111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "prejudiced fox"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 4,
+                    "value2": 3
+                },
+                "bitstring": "0110000111110111011000111011000001011100010001001111010111011010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.234638"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 6,
+                    "value2": 6
+                },
+                "bitstring": "1100000100101001010101001010100011110101011100000100101100100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 0,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "1000001101101101111100001110001010110100010110101001010001111010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "0.0267926"
+                    }
+                ]
+            },
+            {
+                "operation": "Bitwise Or",
+                "args": {
+                    "value0": 7,
+                    "value1": 6,
+                    "value2": 2
+                },
+                "bitstring": "1110110111000101101010101001011111000001110100110010000001110011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "2"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = b | c"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 7
+                },
+                "bitstring": "0111001100010000100110011001110000010110011101001010101010011111",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0111001100010000100110011001110000010110011101001010101010011111"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "prejudiced fox"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 7,
+                    "value1": 4,
+                    "value2": 3
+                },
+                "bitstring": "0110000111110111011000111011000001011100010001001111010111011010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-0.234638"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 6,
+                    "value2": 6
+                },
+                "bitstring": "1100000100101001010101001010100011110001011100000000101100100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::NopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "operation": "Send Intra-Cell Message",
+                "args": {
+                    "value0": 3,
+                    "value1": 5,
+                    "value2": 7
+                },
+                "bitstring": "0110111110010111100001000010011010100101001000001010100111001011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, send message another cardinal within cell"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110111110010111100001000010011010100101001000001010100111001011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "opposite katydid"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Jump If",
+                "args": {
+                    "value0": 6,
+                    "value1": 7,
+                    "value2": 2
+                },
+                "bitstring": "1011001000100001110101110101101100111000111101111110000101000011",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, goto tag match local anchor"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1011001000100001110101110101101100111000111101111110000101000011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "stable pilot"
+                    }
+                ]
+            },
+            {
+                "operation": "Write Own State",
+                "args": {
+                    "value0": 7,
+                    "value1": 4,
+                    "value2": 2
+                },
+                "bitstring": "0001110111101001011111101000101101100111011100001111101101110111",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "7"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if b, state = a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::RepLevRequest"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Draw Random Value",
+                "args": {
+                    "value0": 1,
+                    "value1": 7,
+                    "value2": 4
+                },
+                "bitstring": "1111110011110010010000011011111111001010110110100110001000001000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = weighted draw from random number generator"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 6,
+                    "value1": 3,
+                    "value2": 7
+                },
+                "bitstring": "1001000010011100101001000111011110000100101010110001111010100001",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1001000010011100101001000111011110000100101010110001111010100001"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "petite duck"
+                    }
+                ]
+            },
+            {
+                "operation": "Get Secondary Global Regulator",
+                "args": {
+                    "value0": 4,
+                    "value1": 4,
+                    "value2": 5
+                },
+                "bitstring": "1010101010001111101010101100000111100110111000010000000000100100",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = global regulator value"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010101010001111101010101100000111100110111000010000000000100100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "surly bear"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 5,
+                    "value2": 7
+                },
+                "bitstring": "0110010010000110101001110101110001100100000000011100000100101011",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110010010000110101001110101110001100100000000011100000100101011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "endurable tortoise"
+                    }
+                ]
+            },
+            {
+                "operation": "Count Ones",
+                "args": {
+                    "value0": 5,
+                    "value1": 5,
+                    "value2": 5
+                },
+                "bitstring": "0000101111000001111000101011111000100011100111100000001000111000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "5"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "5"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = popcnt( b )"
+                    }
+                ]
+            },
+            {
+                "operation": "Fork If",
+                "args": {
+                    "value0": 6,
+                    "value1": 6,
+                    "value2": 0
+                },
+                "bitstring": "0110010111110000000001001011101000101000000011000001101100000010",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if a, submit fork request (processed when core terminates)"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110010111110000000001001011101000101000000011000001101100000010"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "pastel myna"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Anchor",
+                "args": {
+                    "value0": 1,
+                    "value1": 3,
+                    "value2": 7
+                },
+                "bitstring": "0101000000101011111001011011101000011001001100010001111001001100",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a global jump-to destination, maybe terminate"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0101000000101011111001011011101000011001001100010001111001001100"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "reluctant terrier"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Global Regulator",
+                "args": {
+                    "value0": 4,
+                    "value1": 3,
+                    "value2": 3
+                },
+                "bitstring": "1011110001001101111010111110100010001101110010000011001111011001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1011110001001101111010111110100010001101110010000011001111011001"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "saucy gibbon"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Multiply Own State",
+                "args": {
+                    "value0": 0,
+                    "value1": 6,
+                    "value2": 4
+                },
+                "bitstring": "1100000100101001010100001010100011110101011100000000101100100000",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "0"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "state *= a"
+                    },
+                    {
+                        "key": "target",
+                        "value": "dish2::TransientNopState"
+                    },
+                    {
+                        "key": "target index",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "operation": "Get Secondary Global Regulator",
+                "args": {
+                    "value0": 4,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "1010101010001111101010101100000111100110111000010000000000100110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = global regulator value"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1010101010001111101010101100000111100110111000010000000000100110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "surly bee"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "operation": "Local Anchor",
+                "args": {
+                    "value0": 2,
+                    "value1": 5,
+                    "value2": 7
+                },
+                "bitstring": "0110010010001110101001110101110001100100000000011100000000101011",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "register a local jump-to destination"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0110010010001110101001110101110001100100000000011100000000101011"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "immaculate nighthawk"
+                    }
+                ]
+            },
+            {
+                "operation": "Global Jump If Not",
+                "args": {
+                    "value0": 4,
+                    "value1": 3,
+                    "value2": 3
+                },
+                "bitstring": "1011111001001101111010111110100010001101110010000011001111010001",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "3"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "if !a, goto global anchor; if !b, clear registers"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "1011111001001101111010111110100010001101110010000011001111010001"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "starry peccary"
+                    }
+                ]
+            },
+            {
+                "operation": "Nop-0",
+                "args": {
+                    "value0": 2,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "0011011100100000101101001110110100110110011111011101000011001001",
+                "descriptors": [
+                    {
+                        "key": "summary",
+                        "value": "perform no operation"
+                    }
+                ]
+            },
+            {
+                "operation": "Decay Global Regulator",
+                "args": {
+                    "value0": 4,
+                    "value1": 4,
+                    "value2": 1
+                },
+                "bitstring": "0100010101100001011001110101000000111010001111110001010101011110",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "decay global regulator value by register a"
+                    },
+                    {
+                        "key": "tag bits",
+                        "value": "0100010101100001011001110101000000111010001111110001010101011110"
+                    },
+                    {
+                        "key": "tag moniker",
+                        "value": "null laridae"
+                    },
+                    {
+                        "key": "target jump table",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "operation": "Not Equal",
+                "args": {
+                    "value0": 6,
+                    "value1": 2,
+                    "value2": 1
+                },
+                "bitstring": "0010011110000111010010000110001111000100100111101111001100000101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "6"
+                    },
+                    {
+                        "key": "argument b",
+                        "value": "2"
+                    },
+                    {
+                        "key": "argument c",
+                        "value": "1"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = (b != c)"
+                    }
+                ]
+            },
+            {
+                "operation": "Terminal",
+                "args": {
+                    "value0": 4,
+                    "value1": 1,
+                    "value2": 5
+                },
+                "bitstring": "0001001010101000101111001100100010000100100000111101101001000101",
+                "descriptors": [
+                    {
+                        "key": "argument a",
+                        "value": "4"
+                    },
+                    {
+                        "key": "summary",
+                        "value": "a = value"
+                    },
+                    {
+                        "key": "value",
+                        "value": "-1.60429"
+                    }
+                ]
+            }
+        ],
+        "root_id": {
+            "root_id": 18954
+        },
+        "stint_root_id": {
+            "root_id": 43197
+        }
+    }
+}
