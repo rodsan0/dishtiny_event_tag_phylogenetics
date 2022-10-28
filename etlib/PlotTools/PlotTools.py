@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from matplotlib import colors as mpl_colors
 
 def enable_pretty_graphing():
     plt.rcParams['figure.dpi'] = 100
@@ -10,3 +11,7 @@ def enable_pretty_graphing():
     plt.rcParams['figure.facecolor'] = 'white'
     plt.rcParams['figure.edgecolor'] = 'white'
     plt.rcParams['axes.edgecolor'] = 'white'
+
+def set_color(x):
+    if x:
+        return mpl_colors.to_hex('C' + str(ord(x[-2]) - ord('a')))

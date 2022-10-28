@@ -15,6 +15,19 @@ def find_leaves(root):
             nodes.extend(find_leaves(node))
     return nodes
 
+def to_tril(matrix):
+    return [
+        row[:row_idx] + [0.0]
+        for row_idx, row in enumerate(matrix.tolist())
+    ]
+
+def fix_branch_length(root):
+    if 'Inner' not in root.name:
+        root.branch_length = 1
+    else:
+        root.branch_length = sum([x.branch_length for x in root]) / len([x.branch_length for x in root])
+    for x in root:
+        fix_branch_length(x)
 
 class SortableTreeMixin(Bio.Phylo.BaseTree.TreeMixin):
     def __init__(self, *args, **kwargs):
