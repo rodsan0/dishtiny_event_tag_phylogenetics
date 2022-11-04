@@ -38,6 +38,7 @@ class SortableTreeMixin(Bio.Phylo.BaseTree.TreeMixin):
             min_leaf = min(leaves, default='0')
             name = str(min_leaf)
             self.root.label = name
+            self.root.name = name
             for node in self.root.clades:
                 node.__class__ = SortableClade
                 node.fix_inner_nodes()
